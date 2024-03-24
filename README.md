@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ashishaman343@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_g0DYKuk9bs6JlFZJh-jamh-R_FboL0h/view?usp=drive_link](https://drive.google.com/file/d/1_g0DYKuk9bs6JlFZJh-jamh-R_FboL0h/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1_g0DYKuk9bs6JlFZJh-jamh-R_FboL0h/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
