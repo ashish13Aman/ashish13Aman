@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aman Ashish Lakra</h1>
 <h3 align="center">Hey there, I'm Aman Ashish Lakra and I'm a passionate web developer with years of experience in HTML, CSS, and JavaScript. With a strong understanding of React framework, I'm confident in creating visually appealing websites. Collaborative situations motivate me, and I'm constantly keen to learn new technology. I'm open to new challenges and educational opportunities and enjoy working in teams to bring ideas to reality.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.codechef.com/users/diligent_aman"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish13aman&label=Profile%20views&color=0e75b6&style=flat" alt="ashish13aman" /> 
 <img src="https://cfrating.ihcr.top/?user=Aman_Ashish_Lakra" style="width: auto; height: 20px;">
