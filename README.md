@@ -11,7 +11,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **NodeJs,Mongo DB**
+- 🌱 I’m currently learning **Spring boot, Docker**
 
 - 💬 Ask me about **ReactJs**
 
@@ -35,11 +35,13 @@
 
 [![FrontEnd](https://skillicons.dev/icons?i=html,css,react,redux,bootstrap)](https://skillicons.dev)
 
-[![BackEnd](https://skillicons.dev/icons?i=mysql,mongodb,express,nodejs)](https://skillicons.dev) 
+[![BackEnd](https://skillicons.dev/icons?i=mysql,spring,nodejs)](https://skillicons.dev) 
+
+[![Devops](https://skillicons.dev/icons?i=docker,kubernetes,gcp)](https://skillicons.dev) 
 
 - Other Technologies & tools:
 
-[![BackEnd](https://skillicons.dev/icons?i=github,linux,unity,aws)](https://skillicons.dev) 
+[![BackEnd](https://skillicons.dev/icons?i=github,linux)](https://skillicons.dev) 
 
 ## Coding Platform Links <p align="center">  
 <a href = 'https://leetcode.com/diligent_aman/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; 
